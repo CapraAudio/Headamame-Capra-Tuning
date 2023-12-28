@@ -1,2 +1,1 @@
-# Headamame-Capra-Tuning
-Tuning modifications for the Headamame Headphones
+Go to the Wiki https://github.com/CapraAudio/Headamame-Capra-Tuning/wiki
